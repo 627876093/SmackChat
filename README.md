@@ -8,8 +8,8 @@
 
 ### 效果图
 
-<img src="https://github.com/azhon/SmackChat/tree/master/effectImage/20170323093645146.png" width ="400" height="700"/><font>&nbsp;</font>
-<img src="https://github.com/azhon/SmackChat/tree/master/effectImage/20170323100531084.png" width ="400" height="700"/>
+<img src="https://github.com/azhon/SmackChat/blob/master/effectImage/20170323093645146.png" width ="400" height="700"/><font>&nbsp;</font>
+<img src="https://github.com/azhon/SmackChat/blob/master/effectImage/20170323100531084.png" width ="400" height="700"/>
 ## 欢迎Issues
 
 # LICENSE
